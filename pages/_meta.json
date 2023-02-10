@@ -1,7 +1,6 @@
 {
-  "index": "Introduction",
-  "risk": "Risk Page",
-  "graphs": "Dashboard",
+  "index": "Quickstart",
+  
   "about": {
     "title": "About",
     "type": "page"
